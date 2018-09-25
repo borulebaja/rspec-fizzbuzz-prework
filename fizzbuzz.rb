@@ -1,15 +1,13 @@
 def fizzbuzz
-  
-  if i % 5 == 0 and i % 3 == 0
-    puts "FizzBuzz"
-  
- 
-    
-  elsif i % 3 == 0
+  num = i
+  if i % 3 == 0
     puts "Fizz"
   
   elsif i % 5 == 0
     puts "Buzz"
+  
+  elsif i % 5 == 0 and i % 3 == 0
+    puts "FizzBuzz"
   
   else
         puts i
