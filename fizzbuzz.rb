@@ -1,4 +1,4 @@
-def fizzbuzz
+def fizzbuzz ()
   num = i
   if i % 3 == 0
     puts "Fizz"
