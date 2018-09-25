@@ -1,5 +1,6 @@
-def fizzbuzz
- fizz_3 = fizzbuzz(3)
+def fizzbuzz(number)
+  if number % 3 
+  return "Fizz"
 end 
 
   
