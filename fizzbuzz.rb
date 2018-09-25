@@ -1,5 +1,6 @@
 def fizzbuzz(num)
-  return "Fizz" if is_divisible_by_3(num)
+  if num % 3 
+  return "Fizz" 
 end
 # def is_divisible_by_3(num)
   # num % 3 == 0 
