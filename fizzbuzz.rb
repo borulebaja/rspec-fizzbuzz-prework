@@ -6,8 +6,8 @@ def fizzbuzz(int)
   elsif int % 5 == 0 
     "Buzz"
   
-  #else int #{Fizz}#
-   # "FizzBuzz"
+  else int #{Fizz}#{Buzz}
+    "FizzBuzz"
   
   end
 end
