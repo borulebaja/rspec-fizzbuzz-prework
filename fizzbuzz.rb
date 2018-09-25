@@ -1,9 +1,9 @@
 def fizzbuzz(num)
-  num
+  return "Fizz" if 
 end
-def is_divisible_by_3(num)
-  num % 3 == 0 
-end
+# def is_divisible_by_3(num)
+  # num % 3 == 0 
+ # end
 
   
 # if i % 3 == 0
